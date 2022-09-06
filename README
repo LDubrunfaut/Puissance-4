@@ -1,0 +1,11 @@
+Lucie Dubrunfaut
+Aude Vieillefon
+
+Projet Puissance 4
+Pour la compilation :
+faire un make dans le terminal
+un fichier Makefile permet de compiler, et nous sert pour le rendu (archive tar.gz).
+
+Remarque : 
+Notre professeur aimait à dire qu'un code bien écrit ne nécessite pas de commentaire.
+Nous avons respecté son souhait.
